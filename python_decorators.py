@@ -1,4 +1,4 @@
-# Python decorators are basically objects which are callable and are used to modify a function or a class during runtime.
+# Python decorators are basically objects which are callable and are used to modify a function or a class at runtime.
 # The way the Python decorator works is, the function (also called objects in Python given they are First class objects) is
 # passed to a decorator (the one which is going to modify the original function behaviour) as an argument, the decorator 
 # modifies the function and returns it. Here's an example where we have an original function which lets say finds square of a
